@@ -82,3 +82,5 @@ The AddressRepository is responsible for handling database operations related to
 
 ## Project Summary
 This is an E-commerce API built with Java and Spring Boot, using Jakarta Persistence API and Lombok. It allows users to interact with the application's database to retrieve information on products, orders, addresses, and users.
+## Swagger Link
+> [Swagger](http://localhost:8080/swagger-ui/index.html#/)
